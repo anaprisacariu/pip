@@ -6,7 +6,9 @@ public class A_class {
 		// TODO Auto-generated method stub
 
 		System.out.println("A class");
+		System.out.println("--------");
 		new B_class();
+		
 	}
 
 }
