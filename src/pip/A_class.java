@@ -8,7 +8,8 @@ public class A_class {
 		System.out.println("A class");
 		System.out.println("--------");
 		new B_class();
-		
+		System.out.println("--------");
+		new D_class().print();
 	}
 
 }
