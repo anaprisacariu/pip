@@ -10,6 +10,7 @@ public class A_class {
 		new B_class();
 		System.out.println("--------");
 		new D_class().print();
+		
 	}
 
 }
